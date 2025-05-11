@@ -15,7 +15,7 @@ namespace ejemplo1
         {
             this.color = color;
             this.material = material;
-            capacidad = 100;
+            capacidad = 200;
             cantidadActual = 0;
         }
         // sobre carga de constructor

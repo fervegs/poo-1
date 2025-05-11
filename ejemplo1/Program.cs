@@ -14,7 +14,7 @@ namespace ejemplo1
             //Persona p1 = new Persona("francisco");
             //p1.setEdad(20);
 
-            botella b1 = new botella("ROJO", "PLASTICO");
+            botella b1 = new botella("ROJO", "aluminio");
             botella b2 = new botella();
             //Console.WriteLine(p1.saludar());
             //Console.WriteLine(p1.saludar("maxi"));
